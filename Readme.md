@@ -19,6 +19,7 @@
 6. How to properly submit a Git on bloc/assignment
 7. Slack
 8. Atom
+9. change
 
 <!--Once your list is complete:
 
